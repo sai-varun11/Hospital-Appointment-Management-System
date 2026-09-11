@@ -25,3 +25,7 @@ Registration Process:
 3. Generate patient ID
 4. Save patient information
 5. Display registration confirmation
+Additional Patient Features:
+
+7. Generate patient ID automatically
+8. Check duplicate patient records
