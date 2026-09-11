@@ -9,6 +9,12 @@ Features:
 4. Select doctor
 5. Select appointment date
 6. Check doctor availability
+Additional Appointment Features:
+
+7. Prevent double booking
+8. Check available appointment slots
+9. Allow appointment cancellation
+10. Allow appointment rescheduling
 
 Appointment Information:
 Appointment ID
