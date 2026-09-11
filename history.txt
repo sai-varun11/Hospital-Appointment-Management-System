@@ -13,6 +13,8 @@ Additional History Features:
 
 7. Search history using patient ID
 8. Search history using appointment ID
+9. Filter appointments by date
+10. Display completed appointments
 
 History Information:
 Appointment ID
