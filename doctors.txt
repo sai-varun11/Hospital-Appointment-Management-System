@@ -1,0 +1,27 @@
+DOCTOR MANAGEMENT MODULE
+
+Doctor Management System
+
+Features:
+1. Add doctor
+2. Update doctor information
+3. Search doctor
+4. Delete doctor
+5. Manage doctor specialization
+6. Manage doctor availability
+
+Doctor Information:
+Doctor ID
+Doctor Name
+Specialization
+Phone Number
+Email
+Available Days
+Available Time
+
+Doctor Management Process:
+1. Enter doctor details
+2. Validate doctor information
+3. Save doctor information
+4. Set availability
+5. Display doctor details

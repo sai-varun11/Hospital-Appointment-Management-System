@@ -1,0 +1,29 @@
+APPOINTMENT SCHEDULING MODULE
+
+Appointment Management System
+
+Features:
+1. Book appointment
+2. Cancel appointment
+3. Reschedule appointment
+4. Select doctor
+5. Select appointment date
+6. Check doctor availability
+
+Appointment Information:
+Appointment ID
+Patient ID
+Patient Name
+Doctor ID
+Doctor Name
+Appointment Date
+Appointment Time
+Appointment Status
+
+Appointment Process:
+1. Select patient
+2. Select doctor
+3. Check doctor availability
+4. Select date and time
+5. Book appointment
+6. Display confirmation

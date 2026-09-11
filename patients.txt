@@ -1,0 +1,27 @@
+PATIENT REGISTRATION MODULE
+
+Patient Registration System
+
+Features:
+1. Register a new patient
+2. Update patient information
+3. Search patient
+4. Delete patient
+5. Validate patient information
+6. Generate unique patient ID
+
+Patient Information:
+Patient ID
+Patient Name
+Age
+Gender
+Phone Number
+Address
+Email
+
+Registration Process:
+1. Enter patient details
+2. Validate information
+3. Generate patient ID
+4. Save patient information
+5. Display registration confirmation

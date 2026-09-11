@@ -1,0 +1,26 @@
+APPOINTMENT HISTORY MODULE
+
+Appointment History Management
+
+Features:
+1. View previous appointments
+2. View patient history
+3. Search appointment history
+4. Filter history by date
+5. View completed appointments
+6. View cancelled appointments
+
+History Information:
+Appointment ID
+Patient ID
+Patient Name
+Doctor Name
+Appointment Date
+Appointment Time
+Appointment Status
+
+History Process:
+1. Search patient
+2. Retrieve appointments
+3. Display appointment history
+4. Filter history if required
