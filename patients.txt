@@ -29,3 +29,5 @@ Additional Patient Features:
 
 7. Generate patient ID automatically
 8. Check duplicate patient records
+9. Display patient registration confirmation
+10. Validate patient phone number
