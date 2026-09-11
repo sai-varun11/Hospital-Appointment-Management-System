@@ -25,3 +25,9 @@ Doctor Management Process:
 3. Save doctor information
 4. Set availability
 5. Display doctor details
+Additional Doctor Features:
+
+7. Search doctor by specialization
+8. Display available doctors
+9. Update doctor availability
+10. Display doctor schedule
