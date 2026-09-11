@@ -9,6 +9,10 @@ Features:
 4. Filter history by date
 5. View completed appointments
 6. View cancelled appointments
+Additional History Features:
+
+7. Search history using patient ID
+8. Search history using appointment ID
 
 History Information:
 Appointment ID
